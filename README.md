@@ -4,6 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=flat" alt="hirudikaanupama" /> </p>
 
 <br>
+
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)
