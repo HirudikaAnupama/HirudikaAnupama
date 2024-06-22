@@ -7,10 +7,19 @@
 
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
+- 👨🏼‍💻 I'm Undergraduate at Robert gordon university
+
 - 👨‍💻 All of my projects are available at [https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)
 
 - 📫 How to reach me **hirudikaanupama4@gmail.com**
+<hr>
+<h3 align = "center">My Statistics</h3>
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight) 
+
+
+<hr>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
