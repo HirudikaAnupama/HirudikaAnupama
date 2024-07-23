@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
-- 👨🏼‍💻 I'm Undergraduate at Robert gordon university
+- 👨🏼‍💻 I'm Undergraduate at **Robert Gordon University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)
 
