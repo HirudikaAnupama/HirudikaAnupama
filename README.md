@@ -4,8 +4,7 @@
 
 
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=flat" alt="hirudikaanupama" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
 <br>
 
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
