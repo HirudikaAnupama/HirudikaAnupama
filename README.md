@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hirudika Anupama</h1>
-<h3 align="center">Exploring Artificial intelligent and Data Science</h3>
+<p>
+  <img src="https://github.com/user-attachments/assets/aa04fa58-b8e8-49c3-8d1c-75f0018f5686" alt="SH1">
+</p>
+
+
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=flat" alt="hirudikaanupama" /> </p>
 
