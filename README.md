@@ -7,6 +7,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
 <br>
 
+<h1 align="center" ">
+  <picture>
+    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="60px">
+  </picture> 
+  About me
+</h1>
+
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
 - 👨🏼‍💻 I'm Undergraduate at **Robert Gordon University**
