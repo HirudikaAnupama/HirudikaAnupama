@@ -129,18 +129,34 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Hirudika's GitHub stats](https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
+
+<table align="left" style="border: none; width: 100%;">
+  <tr>
+    <td style="width: 50%; text-align: center; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&theme=radical" width="500" height="200" />
+      <br><br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirudikaAnupama&theme=radical" width="500" height="200" />
+    </td>
+    <td style="width: 50%; text-align: center; vertical-align: top;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight" width="500" height="200" />
+    </td>
+  </tr>
+</table>
 
 
 
-
-<br>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/hirudika-anupama-1927b5293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hirudika-anupama-1927b5293/" height="30" width="40" /></a>
-<a href="https://fb.com/hirudika anupama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hirudika anupama" height="30" width="40" /></a>
-<a href="https://instagram.com/hirudika anupama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hirudika anupama" height="30" width="40" /></a>
-<a href="https://discord.gg/hirudika_anupama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hirudika_anupama" height="30" width="40" /></a>
+<h1><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contact with me</h1>
+<p align="left">
+    <a href="https://linkedin.com/in/hirudika-anupama-1927b5293/" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="margin: 0 10px;" />
+    </a> 
+    <a href="https://fb.com/hirudika_anupama" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="margin: 0 10px;" />
+    </a> 
+    <a href="https://instagram.com/hirudika_anupama" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" style="margin: 0 10px;" />
+    </a> 
+    <a href="https://discord.gg/hirudika_anupama" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" style="margin: 0 10px;" />
+    </a>
 </p>
-
