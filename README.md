@@ -120,14 +120,19 @@
         
 <br>
 <br>
+<br>
+<br>
 
 
 <h1 ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My Statistics</h1>
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&theme=dark&hide_border=false&include_all_commits=false&count_private=false )  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight) <br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=HirudikaAnupama&theme=dark&hide_border=false)<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hirudika's GitHub stats](https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
+
+
 
 
 <br>
