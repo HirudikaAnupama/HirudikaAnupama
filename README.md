@@ -16,17 +16,17 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-👨‍💻 I am currently an **Undergraduate student at Robert Gordon University**
+- 👨‍💻 I am currently an **Undergraduate student at Robert Gordon University**
 
-💡 I like to explore **New technologies, Artificial intelligent and Data science**
+- 💡 I like to explore **New technologies, Artificial intelligent and Data science**
   
-🌱 I’m currently learning **Artificial intelligent and Data science**
+- 🌱 I’m currently learning **Artificial intelligent and Data science**
 
-💬 Ask me about **Machine learning, Data science, Deep learning, Data analysis**
+- 💬 Ask me about **Machine learning, Data science, Deep learning, Data analysis**
 
-💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
+- 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
 
-📫 How to reach me **hirudikaanupama4@gmail.com**
+- 📫 How to reach me **hirudikaanupama4@gmail.com**
 
 <br>
 <br> 
