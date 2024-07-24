@@ -14,7 +14,7 @@
   About me
 </h1>
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 320px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 310px></picture>
 
 - 👨‍💻 I am currently an **Undergraduate student at Robert Gordon University**
 
