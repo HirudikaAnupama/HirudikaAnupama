@@ -108,13 +108,16 @@
 ### _Others_
 
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" width="60" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Visual Studio Code">
 </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="60" width="60" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="60" width="60" style="margin: 0 10px;" alt="PyCharm">
 </a>
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"   height="60" width="60" style="margin: 0 10px;">
+<a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Git">
+</a>
+<a href="https://github.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="60" style="margin: 0 10px;" alt="GitHub">
 </a>
 
         
@@ -166,7 +169,7 @@
     <a href="https://x.com/_xAnupama?t=FoqShy-zfDTi5npBTqGGbA&s=08" target="_blank">
         <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" height="30" style="margin: 0 10px;"/>
     </a>
-    <a href="https://wa.me/0714081569" target="_blank">
+    <a href="https://wa.me/+94714081569" target="_blank">
         <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" style="margin: 0 10px;"/>
     </a>
 </p>
