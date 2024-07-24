@@ -108,13 +108,13 @@
 ### _Others_
 
 <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Visual Studio Code">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Visual Studio Code">
 </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="60" width="60" style="margin: 0 10px;" alt="PyCharm">
 </a>
 <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Git">
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="60" width="60" style="margin: 0 10px;" alt="Git">
 </a>
 <a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="60" style="margin: 0 10px;" alt="GitHub">
