@@ -129,7 +129,6 @@
 <br>
 
 
-
 <table align="left" style="border: none; width: 100%;">
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top;">
@@ -143,20 +142,32 @@
   </tr>
 </table>
 
+<p>ㅤㅤㅤㅤㅤ</p>
+
+<br>
+<br>
 
 
-<h1><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">Contact with me</h1>
+<h1><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Contact with me</h1>
+
 <p align="left">
-    <a href="https://linkedin.com/in/hirudika-anupama-1927b5293/" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" style="margin: 0 10px;" />
-    </a> 
-    <a href="https://fb.com/hirudika_anupama" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="50" width="50" style="margin: 0 10px;" />
-    </a> 
-    <a href="https://instagram.com/hirudika_anupama" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" style="margin: 0 10px;" />
-    </a> 
-    <a href="https://discord.gg/hirudika_anupama" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="50" width="50" style="margin: 0 10px;" />
+    <a href="https://linkedin.com/in/hirudika-anupama-1927b5293/" target="_blank">
+        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://fb.com/hirudika_anupama" target="_blank">
+        <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://instagram.com/hirudika_anupama" target="_blank">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://discord.gg/hirudika_anupama" target="_blank">
+        <img src="https://img.shields.io/badge/discord-%2300AFFE.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" height="30" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://x.com/_xAnupama?t=FoqShy-zfDTi5npBTqGGbA&s=08" target="_blank">
+        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" height="30" style="margin: 0 10px;"/>
+    </a>
+    <a href="https://wa.me/0714081569" target="_blank">
+        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" style="margin: 0 10px;"/>
     </a>
 </p>
+
