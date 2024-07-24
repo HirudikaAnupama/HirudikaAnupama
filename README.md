@@ -102,21 +102,26 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="60" width="60" style="margin: 0 10px;">
+    </a>
 </div>
 
 
 ### _Others_
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Visual Studio Code">
+<a href="https://www.linux.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Linux">
 </a>
 
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" target="_blank">
+<a href="https://git-scm.com/" target="_blank">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="60" width="60" style="margin: 0 10px;" alt="Git">
 </a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" target="_blank">
+
+<a href="https://github.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="60" style="margin: 0 10px;" alt="GitHub">
 </a>
+
 
         
 <br>
