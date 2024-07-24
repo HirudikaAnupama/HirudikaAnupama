@@ -7,18 +7,24 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
 <br>
 
-<h1 align="center" ">
+<h1>
   <picture>
     <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="60px">
   </picture> 
   About me
 </h1>
 
+- 👨‍💻 I am currently an **Undergraduate student at Robert Gordon University**
+
+- 💡 I like to explore **New technologies, Artificial intelligent and Data science**
+  
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
-- 👨🏼‍💻 I'm Undergraduate at **Robert Gordon University**
+- 💬 Ask me about **Machine learning, Data science, Deep learning, Data analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)
+- 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
+
+- 👨‍💻 All of my projects are available at **[https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)**
 
 - 📫 How to reach me **hirudikaanupama4@gmail.com**
 <hr>
