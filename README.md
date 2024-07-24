@@ -27,9 +27,12 @@
 - 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
 
 - 📫 How to reach me **hirudikaanupama4@gmail.com**
-  
+
+<br> 
 <hr>
-<h3 align = "center">My Statistics</h3>
+
+<h1 ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My Statistics</h1>
+
 <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight) 
