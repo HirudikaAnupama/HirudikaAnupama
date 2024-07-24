@@ -14,6 +14,8 @@
   About me
 </h1>
 
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 330px></picture>
+
 - 👨‍💻 I am currently an **Undergraduate student at Robert Gordon University**
 
 - 💡 I like to explore **New technologies, Artificial intelligent and Data science**
@@ -24,9 +26,8 @@
 
 - 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/HirudikaAnupama?tab=repositories](https://github.com/HirudikaAnupama?tab=repositories)**
-
 - 📫 How to reach me **hirudikaanupama4@gmail.com**
+  
 <hr>
 <h3 align = "center">My Statistics</h3>
 <br>
