@@ -9,7 +9,7 @@
 
 <h1>
   <picture>
-    <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="60px">
+    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px">
   </picture> 
   About me
 </h1>
@@ -154,7 +154,7 @@
 <br>
 
 
-<h1><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80"> Contact with me</h1>
+<h1><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">Contact with me</h1>
 
 <p align="left">
     <a href="https://linkedin.com/in/hirudika-anupama-1927b5293/" target="_blank">
