@@ -139,8 +139,6 @@
   <tr>
     <td style="width: 50%; text-align: center; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&theme=radical" width="500" height="200" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HirudikaAnupama&theme=radical" width="500" height="200" />
     </td>
     <td style="width: 50%; text-align: center; vertical-align: top;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight" width="500" height="200" />
