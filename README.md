@@ -22,7 +22,7 @@
   
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
-- 💬 Ask me about **Machine learning, Data science, Deep learning, Data analysis**
+- 💬 Ask me about **Machine learning, Data science, Deep learning, Data engineering, Data analysis**
 
 - 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
 
