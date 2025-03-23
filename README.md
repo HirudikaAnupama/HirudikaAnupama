@@ -84,6 +84,15 @@
     <a href="https://www.anaconda.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
+    <a href="https://pytorch.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" width="60" style="margin: 0 10px;">
+    </a>
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" width="60" style="margin: 0 10px;">
+    </a>
+    
+
+
 </div>
 
 
