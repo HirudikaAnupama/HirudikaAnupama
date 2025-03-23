@@ -22,11 +22,11 @@
   
 - 🌱 I’m currently learning **Artificial intelligent and Data science**
 
-- 💬 Ask me about **Machine learning, Data science, Deep learning, Data engineering, Data analysis**
+- 💬 Ask me about **Machine learning, Natural Language Processing, Data science, Deep learning, Data engineering**
 
 - 💪🏼 Future Goals: **Learn about AI technology and become an AI engineer**
 
-- 📫 How to reach me **hirudikaanupama4@gmail.com**
+- 📫 How to reach me **hirudikaanupama3@gmail.com**
 
 <br>
 <br> 
