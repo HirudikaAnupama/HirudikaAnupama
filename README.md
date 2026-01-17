@@ -7,12 +7,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
 <br>
 
-<h1>
+<h1 align="center">
   <picture>
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="50px">
-  </picture> 
+  </picture>
   About me
 </h1>
+
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
@@ -33,7 +34,7 @@
 <br>
 
 
-<h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Skills</h1>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Skills</h1>
 
 <h3 align="center"><em>Programming Languages</em></h3>
 <div align="center">
