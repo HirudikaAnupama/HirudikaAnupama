@@ -2,15 +2,6 @@
   <img src="https://github.com/user-attachments/assets/aa04fa58-b8e8-49c3-8d1c-75f0018f5686" alt="SH1">
 </p>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/71afadef-5682-4dc2-957e-5d7023f43e56" alt="Animated Banner" width="100%">
-</p>
-
-
-
-https://github.com/user-attachments/assets/71afadef-5682-4dc2-957e-5d7023f43e56
-
-
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
