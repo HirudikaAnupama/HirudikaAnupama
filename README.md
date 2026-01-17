@@ -2,6 +2,11 @@
   <img src="https://github.com/user-attachments/assets/aa04fa58-b8e8-49c3-8d1c-75f0018f5686" alt="SH1">
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/18138a5c-34fc-4e5a-b441-2117fa4918a9" alt="Animated Banner" width="100%">
+</p>
+
+![Video Project 1](https://github.com/user-attachments/assets/18138a5c-34fc-4e5a-b441-2117fa4918a9)
 
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hirudikaanupama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="hirudikaanupama" /> </p>
@@ -184,7 +189,4 @@
     </a>
 </p>
 
-
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=HirudikaAnupama&theme=radical&no-frame=true&row=1)
 
