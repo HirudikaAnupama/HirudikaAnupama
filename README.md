@@ -121,49 +121,21 @@
 <br>
 
 
-<h1 ><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My Statistics</h1>
-
-<br>
 
 
-<table align="left" style="border: none; width: 100%;">
-  <tr>
-    <td style="width: 50%; text-align: center; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&theme=radical" width="500" height="200" />
-    </td>
-    <td style="width: 50%; text-align: center; vertical-align: top;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=tokyonight" width="500" height="200" />
-    </td>
-  </tr>
-</table>
+<h1 align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">
+  Contact with me
+</h1>
 
-<p>ㅤㅤㅤㅤㅤ</p>
-
-<br>
-<br>
-
-
-<h1><img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="80">Contact with me</h1>
-
-<p align="left">
-    <a href="https://linkedin.com/in/hirudika-anupama-1927b5293/" target="_blank">
-        <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30" style="margin: 0 10px;"/>
-    </a>
-    <a href="https://fb.com/hirudika_anupama" target="_blank">
-        <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" height="30" style="margin: 0 10px;"/>
-    </a>
-    <a href="https://instagram.com/hirudika_anupama" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" height="30" style="margin: 0 10px;"/>
-    </a>
-    <a href="https://discord.gg/hirudika_anupama" target="_blank">
-        <img src="https://img.shields.io/badge/discord-%2300AFFE.svg?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord" height="30" style="margin: 0 10px;"/>
-    </a>
-    <a href="https://x.com/_xAnupama?t=FoqShy-zfDTi5npBTqGGbA&s=08" target="_blank">
-        <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X" height="30" style="margin: 0 10px;"/>
-    </a>
-    <a href="https://wa.me/+94714081569" target="_blank">
-        <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="30" style="margin: 0 10px;"/>
-    </a>
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-1DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 </p>
+
 
 
