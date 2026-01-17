@@ -184,3 +184,7 @@
     </a>
 </p>
 
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=HirudikaAnupama&theme=radical&no-frame=true&row=1)
+
