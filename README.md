@@ -47,9 +47,6 @@
     <a href="https://www.oracle.com/java/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
@@ -61,9 +58,6 @@
     </a>
     <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
 </div>
 
@@ -100,11 +94,35 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
            height="60" width="60" style="margin: 0 10px;">
     </a>
-
-    
-
-
 </div>
+
+### _Databases_
+<div style="text-align: center;">
+    <!-- PostgreSQL -->
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+             height="60" width="60" style="margin: 0 10px;">
+    </a>
+
+    <!-- MySQL -->
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+             height="60" width="60" style="margin: 0 10px;">
+    </a>
+
+    <!-- SQLite -->
+    <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
+             height="60" width="60" style="margin: 0 10px;">
+    </a>
+
+    <!-- NoSQL (MongoDB) -->
+    <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
+             height="60" width="60" style="margin: 0 10px;">
+    </a>
+</div>
+
 
 
 ### _Tools, IDEs and Softwares_
