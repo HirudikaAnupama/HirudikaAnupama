@@ -35,130 +35,82 @@
 
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"> My Skills</h1>
 
-### _Programming languages_
-
-<div style="text-align: center;">
-    <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.r-project.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.oracle.com/java/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
+<h3 align="center"><em>Programming Languages</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </p>
 </div>
+
 
 
           
-### _Libraries and Frameworks_
-
-<div style="text-align: center;">
-    <a href="https://scikit-learn.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://numpy.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://matplotlib.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.python.org/psf/landing/" target="_blank">
-        <img src="https://pbs.twimg.com/media/EhGuwXWXgAEERcn.png" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.anaconda.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://nodejs.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-           height="60" width="60" style="margin: 0 10px;">
-    </a>
+<h3 align="center"><em>Libraries & Frameworks</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Seaborn-2C5E77?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  </p>
 </div>
 
-### _Databases_
-<div style="text-align: center;">
-    <!-- PostgreSQL -->
-    <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-             height="60" width="60" style="margin: 0 10px;">
-    </a>
 
-    <!-- MySQL -->
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-             height="60" width="60" style="margin: 0 10px;">
-    </a>
+<h3 align="center"><em>AI Agents</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white"/>
+  </p>
+</div>
 
-    <!-- SQLite -->
-    <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"
-             height="60" width="60" style="margin: 0 10px;">
-    </a>
 
-    <!-- NoSQL (MongoDB) -->
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"
-             height="60" width="60" style="margin: 0 10px;">
-    </a>
+<h3 align="center"><em>Databases</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  </p>
 </div>
 
 
 
-### _Tools, IDEs and Softwares_
-           
-<div style="text-align: center;">
-    <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://jupyter.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
-    <a href="https://www.jetbrains.com/idea/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" height="60" width="60" style="margin: 0 10px;">
-    </a>
+
+<h3 align="center"><em>Tools, IDEs & Softwares</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white"/>
+  </p>
 </div>
 
 
-### _Others_
 
-<a href="https://www.linux.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="60" width="60" style="margin: 0 10px;" alt="Linux">
-</a>
+<h3 align="center"><em>Others</em></h3>
+<div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
+  </p>
+</div>
 
-<a href="https://git-scm.com/" target="_blank">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"  height="60" width="60" style="margin: 0 10px;" alt="Git">
-</a>
-
-<a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="60" style="margin: 0 10px;" alt="GitHub">
-</a>
 
 
         
