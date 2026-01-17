@@ -59,6 +59,12 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="60" width="60" style="margin: 0 10px;">
     </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="60" width="60" style="margin: 0 10px;">
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="60" width="60" style="margin: 0 10px;">
+    </a>
 </div>
 
 
