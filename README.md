@@ -121,6 +121,23 @@
 <br>
 
 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35" />
+  GitHub Stats
+</h1>
+
+
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=HirudikaAnupama&theme=default&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
 
 
 <h1 align="center">
@@ -136,6 +153,5 @@
   <img src="https://img.shields.io/badge/X-000000.svg?style=for-the-badge&logo=x&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" height="30"/>
 </p>
-
 
 
