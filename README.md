@@ -21,26 +21,17 @@ Associate AI/ML Engineer focused on building practical agentic systems and relia
 
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,r,html,css" alt="Programming languages" />
-
 ### AI, backend and frontend
 
-<img src="https://skillicons.dev/icons?i=pytorch,fastapi,nodejs,react" alt="Frameworks and libraries" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,langchain,crewai,huggingface,scikitlearn,pandas,numpy,fastapi,nodejs,react&titles=true" alt="AI, backend and frontend technologies" />
 
-<br/>
+### Languages
 
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/LangGraph-4B0082?style=for-the-badge&logo=graphql&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,typescript,java,r&titles=true" alt="Programming languages" />
 
 ### Databases, cloud and tools
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb,redis,aws,azure,docker,kafka,git,github,linux,vscode" alt="Databases, cloud and tools" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,sqlite,mongodb,redis,aws,azure,docker,kafka,git,github,linux,vscode&titles=true" alt="Databases, cloud and tools" />
 
 </div>
 
