@@ -8,15 +8,6 @@
 
 </div>
 
-## About me
-
-Associate AI/ML Engineer focused on building practical agentic systems and reliable AI workflows.
-
-- **Research:** Memory drift in long-horizon LLM agents
-- **Building:** AI agents, deep-agent workflows, and LLM applications
-- **Working with:** Machine learning, deep learning, LangChain, LangGraph, DeepAgents, and CrewAI
-- **Education:** BSc (Hons) Artificial Intelligence and Data Science at Robert Gordon University
-
 ## Tech stack
 
 <div align="center">
@@ -37,26 +28,8 @@ Associate AI/ML Engineer focused on building practical agentic systems and relia
 
 ## Current focus
 
-```text
-Research   Memory Drift in Long-Horizon LLM Agents
-Building   Agent workflows, LLM applications and memory systems
-Learning   Reliable AI engineering, evaluation and scalable architectures
-Goal       Become a strong AI/ML Engineer and build practical AI systems
-```
-
-## GitHub stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HirudikaAnupama&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HirudikaAnupama&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=HirudikaAnupama&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-</div>
+- **Research:** Memory drift in long-horizon LLM agents
+- **Building:** Agentic AI workflows and practical LLM applications
 
 ## Connect with me
 
